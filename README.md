@@ -1,11 +1,11 @@
-# Joncarter
+# Anil Tamang
 Beautiful HTML,CSS and Bootstrap Portfolio
 
 # Demo
-- https://joncarter.netlify.app/
+- https://aniltmg463.github.io/portfolio/
 
 # Clone Project
-- https://github.com/SA7MAN/joncarter
+- https://github.com/Aniltmg463/portfolio
 
 # Features
 - Fully Responsive
@@ -20,8 +20,8 @@ Beautiful HTML,CSS and Bootstrap Portfolio
 - https://fonts.google.com/
 - https://line-awesome.com/
 - https://unsplash.com/
-- https://michalsnik.github.io/aos/
+- https://github.com/Aniltmg463
 
 
 # Watch more
-For more videos visit to my YouTube channel. [SA7MAN](https://www.youtube.com/c/SA7MAN)
+For more videos visit to my YouTube channel. [Anil Tamang](https://youtube.com/@aniltamang6930?si=lVZUbouW_k1sJRmL)
