@@ -4,9 +4,6 @@ Beautiful HTML,CSS and Bootstrap Portfolio
 # Demo
 - https://aniltmg463.github.io/portfolio/
 
-# Clone Project
-- https://github.com/Aniltmg463/portfolio
-
 # Features
 - Fully Responsive
 - Mobile Navigations
